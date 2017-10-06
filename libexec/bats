@@ -6,7 +6,7 @@ version() {
 }
 
 usage() {
-  version
+    version
   echo "Usage: bats [-c] [-p | -t] <test> [<test> ...]"
 }
 
